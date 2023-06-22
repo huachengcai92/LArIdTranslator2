@@ -8,7 +8,7 @@
 git clone https://github.com/huachengcai92/LArIdTranslator2.git
 
 # Go inside the directory
-cd atlas-triggerconf-web-frontend
+cd LArIdTranslator2
 
 # Install dependencies
 npm install
