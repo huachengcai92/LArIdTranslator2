@@ -5,7 +5,7 @@
 
 ```bash
 # Clone the repository
-git clone [ssh://git@gitlab.cern.ch:7999/atlas-lar-online/LArIdTranslatorWebTool.git](https://github.com/huachengcai92/LArIdTranslator2.git)
+git clone https://github.com/huachengcai92/LArIdTranslator2.git
 
 # Go inside the directory
 cd atlas-triggerconf-web-frontend
