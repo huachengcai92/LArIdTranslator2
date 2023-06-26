@@ -5,7 +5,7 @@ const connectionConfig = {
   host: "dbod-laridtranslator-demo.cern.ch",
   port: 5500,
   user: "admin",
-  password: "LArIdTranslator",
+  password: XXXX,
   database: "LArIdSkimmed"
 };
 
